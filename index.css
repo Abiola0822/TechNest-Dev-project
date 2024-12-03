@@ -1,0 +1,24 @@
+.h1 {
+  font-size: 60px;
+  font-weight: bold;
+  color: green;
+  font-style: italic;
+}
+
+.character-image {
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.h2 {
+  font-size: 35px;
+}
+
+.character-description {
+  font-size: 20px;
+  color: brown;
+}

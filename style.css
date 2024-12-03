@@ -1,0 +1,59 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  background-color: #f4f4f9;
+}
+
+/* Header */
+header {
+  text-align: center;
+  padding: 20px;
+  background: #4caf50;
+  color: #fff;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+/* Character Card */
+.character-card {
+  max-width: 400px;
+  margin: 40px auto;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  padding: 20px;
+}
+
+.character-img {
+  width: 100%;
+  border-radius: 8px 8px 0 0;
+}
+
+.character-name {
+  font-size: em;
+  margin: 15px 0;
+  color: #4caf50;
+}
+
+.character-description {
+  font-size: 1em;
+  color: #555;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #333;
+  color: #fff;
+  margin-top: 20px;
+}
