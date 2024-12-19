@@ -1,0 +1,18 @@
+body {
+  font-family: Arial;
+  display: flex; 
+  flex-direction: column; /* Stack elements vertically */
+  align-items: center;
+  margin: 0;
+  padding: 0
+}
+
+.h2 {
+  color: green;
+  text-align: center;
+}
+
+.card-character {
+  max-width: 400px;
+  margin: 24px;
+}
